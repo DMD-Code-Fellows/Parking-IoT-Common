@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"com.dmd.iot.parking_iot.common"}]
