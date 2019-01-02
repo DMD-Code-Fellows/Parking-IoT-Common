@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.dmd.iot.parking_iot.common","l":"ParkingLotExample"},{"p":"com.dmd.iot.parking_iot.common","l":"ParkingSpaceEvents"},{"p":"com.dmd.iot.parking_iot.common","l":"ParkingSpaceStates"}]
