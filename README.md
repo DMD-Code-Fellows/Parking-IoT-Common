@@ -19,6 +19,6 @@ Instructions for using this common library in a client project:
 5. You can now use its classes in your project.
 
 ## Documentation
-See the library documentation for further details:
+See this library's documentation for further details:
 
 https://dmd-code-fellows.github.io/Parking-IoT-Common/
