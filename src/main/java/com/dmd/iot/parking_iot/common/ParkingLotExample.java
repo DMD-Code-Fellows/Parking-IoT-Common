@@ -29,4 +29,22 @@ public final class ParkingLotExample {
     public static final String PARKING_LOT_ONE_R2_S4_NAME = "R2-4";
     public static final String PARKING_LOT_ONE_R2_S5_NAME = "R2-5";
     public static final String PARKING_LOT_ONE_R2_S6_NAME = "R2-6";
+
+    public static final String[] rows = {
+            PARKING_LOT_ONE_R1_NAME,
+            PARKING_LOT_ONE_R2_NAME};
+    public static final String[] rowOneSpaces = {
+            PARKING_LOT_ONE_R1_S1_NAME,
+            PARKING_LOT_ONE_R1_S2_NAME,
+            PARKING_LOT_ONE_R1_S3_NAME,
+            PARKING_LOT_ONE_R1_S4_NAME,
+            PARKING_LOT_ONE_R1_S5_NAME,
+            PARKING_LOT_ONE_R1_S6_NAME};
+    public static final String[] rowTwoSpaces = {
+            PARKING_LOT_ONE_R2_S1_NAME,
+            PARKING_LOT_ONE_R2_S2_NAME,
+            PARKING_LOT_ONE_R2_S3_NAME,
+            PARKING_LOT_ONE_R2_S4_NAME,
+            PARKING_LOT_ONE_R2_S5_NAME,
+            PARKING_LOT_ONE_R2_S6_NAME};
 }
